@@ -1,6 +1,0 @@
-__pycache__/
-*.pyc
-.DS_Store
-server.log
-*.pth.tmp
-node_modules/
